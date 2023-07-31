@@ -1,0 +1,16 @@
+#lests build a coffe shop we are going to make a coffee shop by using python programming festure
+
+#lets build a robot
+
+print("hello welcome to our coffee shop")
+
+name = input("what is your name?.\n")
+
+if name == "ben":
+  evil_status = input("are you evil?.\n")
+  if evil_status == "yes":
+    print("you are not welcome here ben get out!!")
+  else:
+    print("oh so you are one of these good bens")
+else:
+  print("hello " + name + " thanks for coming in today")
